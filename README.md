@@ -35,4 +35,7 @@ Inspirado por projetos de calculadoras de IMC existentes na web.<br>
 Espero que este projeto seja útil pra você!<br> 
 Sinta-se à vontade para explorar, modificar e adaptar de acordo com suas necessidades.<br> 
 Se tiver alguma dúvida ou sugestão, fique à vontade para entrar em contato. Obrigado!<br>
-marcosoliveira.dev@aol.com
+marcosoliveira.dev@aol.com<br>
+
+![calculadora de IMC](https://github.com/marcosoliveira253/calculadora-imc/assets/96296979/bb8e45ab-74be-40ce-903f-a93533d7a7ae)
+
